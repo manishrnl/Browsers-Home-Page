@@ -44,7 +44,7 @@ export default function App() {
                       className="me-3"
                     ></div>
                     <div>
-                      <div className="fw-semibold">Alex</div>
+                      <div className="fw-semibold">Manish</div>
                       <div className="small opacity-75">Work Profile</div>
                     </div>
                   </div>
@@ -183,7 +183,7 @@ export default function App() {
                   (dark ? "bg-secondary" : "bg-white")
                 }
               >
-                <div className="fs-4 fw-bold">Ulaa</div>
+                <div className="fs-4 fw-bold">Manish</div>
 
                 <input
                   className={
