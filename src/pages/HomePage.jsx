@@ -161,7 +161,7 @@ export default function HomePage() {
   return (
     <div className="container-fluid py-4">
       {/* Top search bar (like browser URL bar) */}
-      <div className="row mb-4">
+       <div className="row mb-4">
         <div className="col-12 col-lg-8 mx-auto">
           <form
             className="input-group shadow-sm"
@@ -182,7 +182,7 @@ export default function HomePage() {
             </button>
           </form>
         </div>
-      </div>
+      </div> 
 
       {loading && (
         <div className="text-center mb-3">
